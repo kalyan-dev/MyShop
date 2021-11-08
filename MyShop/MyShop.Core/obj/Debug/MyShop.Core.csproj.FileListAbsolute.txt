@@ -1,0 +1,6 @@
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.AssemblyReference.cache
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb
