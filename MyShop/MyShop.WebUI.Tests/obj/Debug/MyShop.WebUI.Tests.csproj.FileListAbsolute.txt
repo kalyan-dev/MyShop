@@ -50,3 +50,9 @@ C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Test
 C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.csproj.CopyComplete
 C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.dll
 C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.pdb
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\bin\Debug\WebGrease.dll
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\CodeRepos\myshop\MyShop\MyShop\MyShop.WebUI.Tests\bin\Debug\Antlr3.Runtime.pdb
